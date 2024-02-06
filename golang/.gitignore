@@ -1,0 +1,9 @@
+# Executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Binary directory
+bin/
